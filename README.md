@@ -1,1 +1,2 @@
-[resume_code4gov.pdf](https://github.com/mync/Resume-/files/11714797/resume_code4gov.pdf)
+[bny.pdf](https://github.com/myncdeshwal/Resume-/files/12318787/bny.pdf)
+[Resume_latex.pdf](https://github.com/myncdeshwal/Resume-/files/12318788/Resume_latex.pdf)
